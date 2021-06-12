@@ -4,7 +4,6 @@ import { Button } from './Button';
 import './HeroSection.css';
 
 function HeroSection() {
- 
         return (
             <div className='hero-container'>
                 <img src="/trvl (5).jpg" alt="img"/>
