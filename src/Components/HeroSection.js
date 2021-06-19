@@ -1,6 +1,5 @@
 import React from 'react'
 import { Button } from './Button';
-// import trvl1 from '../../public/trvl1.jpeg'
 import './HeroSection.css';
 
 function HeroSection() {
